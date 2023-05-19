@@ -14,7 +14,28 @@ In this project, you will create an online bookstore API that allows users to vi
 in MongoDB.
 
 ## Technology Used
-Python 3.11.0 & MongoDB
+Python 3.11.0, MongoDB, FastAPI, & Pydantic
 
 # How to Execute
+Clone the Repository into desired file directory
+```
+git clone https://github.com/Sergiom1535/Final-Backend.git
+```
+Change directory to bookstore-api folder
+```
+cd bookstore-api
+```
+Install all necessary requirements to run app
+```
+pip freeze > requirements.txt
+pip install -r requirements.txt
+```
+Run app using Uvicorn
+```
+uvicorn main:app --reload
+```
+Using SwaggerUI docs, Run endpoints!
+```
+http://127.0.0.1:8000/docs
+```
 
