@@ -40,6 +40,9 @@ http://127.0.0.1:8000/docs
 ```
 <img width="1440" alt="Screenshot 2023-05-19 at 1 12 04 AM" src="https://github.com/Sergiom1535/Final-Backend/assets/53587310/77494db5-e26c-45f9-b889-f9e6a7ba332f">
 
+## Video
+https://youtu.be/sbjCLdPFgBs
+
 ## Test Runs
 ```/books``` Get Books
 <img width="1070" alt="Screenshot 2023-05-19 at 1 21 35 AM" src="https://github.com/Sergiom1535/Final-Backend/assets/53587310/51f7e15e-8d63-463a-b5f3-5941d9e0ff3b">
@@ -58,6 +61,3 @@ http://127.0.0.1:8000/docs
 
 ```/books/{book_id}``` Search Book
 <img width="956" alt="Screenshot 2023-05-19 at 1 41 08 AM" src="https://github.com/Sergiom1535/Final-Backend/assets/53587310/f3a92922-437e-443d-9045-cf8dd44ec2c5">
-
-## Video
-https://youtu.be/sbjCLdPFgBs
