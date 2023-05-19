@@ -27,7 +27,13 @@ def test_connection():
 
 test_connection()
 
-
+async def get_all_books():
+    pipeline = [
+        {"$sort": {"stock": -1}}
+    ]
+    all_books = await books_collection.aggregate(pipeline).to_list(length=None)
+    return all_books
+    
 async def get_total_books():
     total_books = await books_collection.count_documents({})
     return total_books
