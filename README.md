@@ -5,7 +5,7 @@ DUE: 19 May 2023
 
 ## Group Members
 
-- **Geovanny Casian** - Casian.geovanny@csu.Fullerton.edu
+- **Geovanny Casian** - casian.geovanny@csu.Fullerton.edu
 - **Dilhan Franco** - dilhanfranco@csu.fullerton.edu
 - **Sergio Murguia** - smurguia1@csu.fullerton.edu
   
