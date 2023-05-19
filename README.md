@@ -38,4 +38,6 @@ Using SwaggerUI docs, Run endpoints!
 ```
 http://127.0.0.1:8000/docs
 ```
+<img width="1440" alt="Screenshot 2023-05-19 at 1 12 04 AM" src="https://github.com/Sergiom1535/Final-Backend/assets/53587310/77494db5-e26c-45f9-b889-f9e6a7ba332f">
+
 
