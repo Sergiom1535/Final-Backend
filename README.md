@@ -5,9 +5,9 @@ DUE: 19 May 2023
 
 ## Group Members
 
-- **Geovanny Casian** -
+- **Geovanny Casian** - Casian.geovanny@csu.Fullerton.edu
 - **Dilhan Franco** - dilhanfranco@csu.fullerton.edu
-- **Sergio Murguia** - 
+- **Sergio Murguia** - smurguia1@csu.fullerton.edu
   
 ## Project Overview
 In this project, you will create an online bookstore API that allows users to view, search, and purchase books. The API will be built using FastAPI and the book data will be stored
